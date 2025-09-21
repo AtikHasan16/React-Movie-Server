@@ -1,11 +1,10 @@
 import "./App.css";
-import MovieCard from "./Components/MovieCard";
+import ShowMovie from "./services/api";
 
 function App() {
   return (
     <>
-      <h1>Hello React</h1>
-      <MovieCard></MovieCard>
+      <ShowMovie></ShowMovie>
     </>
   );
 }
