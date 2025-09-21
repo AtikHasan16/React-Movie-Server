@@ -38,7 +38,7 @@ node -v
 
 1.  **Clone the repository:** 
     
-    git clone [Copy-Here] https://github.com/AtikHasan16/React-Movie-Server.git
+    git clone [https://github.com/AtikHasan16/React-Movie-Server.git]
 
 2.  **Navigate into the project directory:**
     ````bash
