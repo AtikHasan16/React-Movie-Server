@@ -36,18 +36,13 @@ node -v
 
 ## **Installation**
 
-1.  **Clone the repository:**
-    
+1.  **Clone the repository:** 
     ````bash
     git clone [https://github.com/AtikHasan16/React-Movie-Server.git](https://github.com/AtikHasan16/React-Movie-Server.git)
-    ```
-
 2.  **Navigate into the project directory:**
-
     ````bash
     cd react-movie-server
-    ```
 3.  **Install the required dependencies:**
-    
+    ````bash
     npm install
 
