@@ -20,3 +20,31 @@ This project is a React-based front-end application that serves as a movie serve
 - **React Router**: For handling client-side routing and navigation.
 - **HTML & CSS**: For the structure and styling of the application.
 - **JavaScript (ES6+)**: For all the logic and functionality.
+
+## 🚀 Getting Started
+
+To get a copy of this project up and running on your local machine, follow these simple steps.
+
+### **Prerequisites**
+
+You'll need to have **Node.js** installed on your machine. You can verify this by running the following command in your terminal:
+
+````bash
+node -v
+
+
+## **Installation**
+
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/AtikHasan16/React-Movie-Server.git](https://github.com/AtikHasan16/React-Movie-Server.git)
+    ```
+2.  **Navigate into the project directory:**
+    ```bash
+    cd react-movie-server
+    ```
+3.  **Install the required dependencies:**
+    ```bash
+    npm install
+    ```
+````
